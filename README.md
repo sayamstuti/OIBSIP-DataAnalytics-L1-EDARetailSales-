@@ -41,6 +41,10 @@ This project aims to answer key business questions such as:
 
 ##  Dataset
 
+- **Rows (Records):** 1000
+- **Columns (Features):** 9
+- **Dataset Shape:** 1000 × 9
+
 The dataset contains retail transaction records including:
 
 | Feature          | Description                   |
