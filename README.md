@@ -5,7 +5,7 @@ A comprehensive Exploratory Data Analysis (EDA) project on retail sales data usi
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 * [Overview](#overview)
 * [Business Problem](#business-problem)
@@ -19,13 +19,13 @@ A comprehensive Exploratory Data Analysis (EDA) project on retail sales data usi
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project explores retail sales data to understand customer behavior, sales performance, and revenue patterns. Through data visualization and statistical analysis, the project identifies trends that can help businesses make informed decisions regarding marketing, inventory management, and customer targeting.
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Retail businesses generate large amounts of transactional data, but transforming this data into actionable insights can be challenging.
 
@@ -39,7 +39,7 @@ This project aims to answer key business questions such as:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains retail transaction records including:
 
@@ -83,7 +83,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## 🔍 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 The following analyses were conducted:
 
@@ -148,7 +148,7 @@ Boxplot analysis indicated no significant outliers in age, while transaction amo
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -202,14 +202,14 @@ Leverage customer demographic insights to design more targeted and effective mar
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sayam Stuti Shuvadarsini**
 
 B.Tech CSE (Data Science) | ITER, SOA University
 
 Aspiring Data Analyst & Data Scientist
-📧 Email: sayamstuti594@gmail.com
+ Email: sayamstuti594@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/sayam-stuti-shuvadarsini-8089b43a4
+ LinkedIn: www.linkedin.com/in/sayam-stuti-shuvadarsini-8089b43a4
 
