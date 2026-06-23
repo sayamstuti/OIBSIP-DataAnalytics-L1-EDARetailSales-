@@ -182,7 +182,7 @@ Retail_Sales_Analysis.ipynb
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 ### 1. Focus on High-Value Customer Segments
 
